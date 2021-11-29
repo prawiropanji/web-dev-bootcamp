@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hoola edit main branch
+=======
+Hoola from features branch
+>>>>>>> features
 
 i edit this file
